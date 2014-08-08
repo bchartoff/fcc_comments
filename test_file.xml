@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+ <int name="status">0</int>
+ <int name="QTime">187</int>
+ <lst name="params">
+  <str name="explainOther"/>
+  <str name="indent">on</str>
+  <str name="wt">standard</str>
+  <str name="hl"/>
+  <str name="version">2.2</str>
+  <str name="rows">100000</str>
+  <str name="fl">*,score</str>
+  <str name="start">0</str>
+  <str name="q">proceeding:14-28 AND dateRcpt:[2014-01-01T00:00:00.000Z/DAY TO 2014-07-19T00:00:00.000Z/DAY]</str>
+  <str name="qt">standard</str>
+  <str name="fq"/>
+ </lst>
+</lst>
+<result name="response" numFound="446719" start="0" maxScore="2.9402447">
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>A Hamill</str></arr>
+  <arr name="applicant_sort"><str>A Hamill</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Jonesborough</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.64Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017589903</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.64Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>TN</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074355.txt 
+Reclassify The Internet As A Common Carrier.  
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>37659</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Aaron Grossman</str></arr>
+  <arr name="applicant_sort"><str>Aaron Grossman</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Mountain View</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.69Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017589866</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.69Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>CA</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074318.txt 
+Reclassify The Internet As A Common Carrier.  
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>94041</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Aaron Honore'</str></arr>
+  <arr name="applicant_sort"><str>Aaron Honore'</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Columbia</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.7Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017590061</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.7Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>SC</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074516.txt 
+Reclassify The Internet As A Common Carrier.  
+Please do the right thing by all Americans!
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>29210</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Abraham Omorenimwen Oboruemuh</str></arr>
+  <arr name="applicant_sort"><str>Abraham Omorenimwen Oboruemuh</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Riverside</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.723Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017589924</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.723Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>CA</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074376.txt 
+Reclassify The Internet As A Common Carrier.  
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>92515</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Alan Boba</str></arr>
+  <arr name="applicant_sort"><str>Alan Boba</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Red Hook</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.783Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017589960</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.783Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>NY</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074413.txt 
+Reclassify The Internet As A Common Carrier.  
+I looked up definitions for "common carrier". One definition seemed to exactly 
+describe how the Internet is used, except it refers to phone companies. That 
+definition is "Communications: Company that offers communication services to general
+public over land-wire, sea cable, mobile (cellular)". 
+I cannot fathom how Internet service would not be a communication service. I send 
+and receive messages with it every day using email, chat, video conference, etc. 
+Plus institutions and businesses that have information I need access to have web 
+sites that allow them to communicate with me on an ad hoc, as needed, basis.
+From governments I get services online or forms to perform services. From schools I 
+get information about the annual calendar, and more immediate information like 
+weather cancellations and delays. From businesses I get access to product catalogs, 
+product manuals, technical support and etc. And from insurers and medical providers 
+I get access to policy and claim information, case information and appointment 
+scheduling and other things.
+This is ALL communication. Before general availability of the Internet this sort of thing was often done by phone. Phone companies are common carriers. The way to get the information has changed but the service to get it is still performing the same function. It is functioning as a common carrier so anyone can exchange information with anyone. 
+Correct the classification of Internet services and recognize that it is a common carrier service. PLEASE!
+Thank you.
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>12571</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Alfred Calambro</str></arr>
+  <arr name="applicant_sort"><str>Alfred Calambro</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Richmond</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.876Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017590052</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.876Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>VA</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074506.txt 
+Reclassify The Internet As A Common Carrier.  
+The Internet was created with public funds for the use of the public and the 
+government. No for-profit organization should have the right to control access from 
+the people who need and use it.
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>23229</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Alice Carli</str></arr>
+  <arr name="applicant_sort"><str>Alice Carli</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Rochester</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.886Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017590037</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.886Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>NY</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074491.txt 
+Reclassify The Internet As A Common Carrier.  
+Executives at large corporations must squelch competition in order to keep their 
+jobs. America relies on innovation and cannot afford to have the internet at the 
+mercy of organizations part of whose function is to nip smaller competitors in the 
+bud. And I can't afford it either!
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>14611</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Amy Frieden</str></arr>
+  <arr name="applicant_sort"><str>Amy Frieden</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Bridgman</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.913Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017590110</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.913Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>MI</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074565.txt 
+Reclassify The Internet As A Common Carrier.  
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>49106</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>Andrew Spinney</str></arr>
+  <arr name="applicant_sort"><str>Andrew Spinney</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Springfield</str></arr>
+  <arr name="dateRcpt"><date>2014-02-21T05:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-02-21T15:56:31.93Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017589853</long></arr>
+  <arr name="modified"><date>2014-02-21T15:56:31.926Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>OR</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521074305.txt 
+Reclassify The Internet As A Common Carrier.  
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>97477</str></arr>
+ </doc>
+ <doc>
+  <float name="score">2.9402447</float>
+  <arr name="applicant"><str>E. Jeremy Hutton</str></arr>
+  <arr name="applicant_sort"><str>E. Jeremy Hutton</str></arr>
+  <arr name="brief"><bool>true</bool></arr>
+  <arr name="city"><str>Harpers Ferry</str></arr>
+  <arr name="dateRcpt"><date>2014-06-04T04:00:00Z</date></arr>
+  <arr name="disseminated"><date>2014-06-09T14:28:30.16Z</date></arr>
+  <arr name="exParte"><bool>false</bool></arr>
+  <arr name="id"><long>6017715295</long></arr>
+  <arr name="modified"><date>2014-06-09T14:28:30.16Z</date></arr>
+  <arr name="pages"><int>1</int></arr>
+  <arr name="proceeding"><str>14-28</str></arr>
+  <arr name="regFlexAnalysis"><bool>false</bool></arr>
+  <arr name="smallBusinessImpact"><bool>false</bool></arr>
+  <arr name="stateCd"><str>WV</str></arr>
+  <arr name="submissionType"><str>COMMENT</str></arr>
+  <arr name="text"><str>7521204214.txt
+I urge you to preserve net neutrality and prevent establishment of tiered systems by
+which large business interests could buy faster access to the Internet, potentially 
+blocking or slowing access by competitors. The Internet is an important tool for 
+communication and providing information to the public and equal access and 
+utilization should be preserved for all.  In West Virginia, even under the current 
+system, business and the public is already hindered by slow internet speeds, and our
+ability to use the Internet should not be subject to additional barriers.
+Page 1
+
+</str></arr>
+  <arr name="viewingStatus"><str>Unrestricted</str></arr>
+  <arr name="zip"><str>25425</str></arr>
+ </doc>
+</result>
+</response>
